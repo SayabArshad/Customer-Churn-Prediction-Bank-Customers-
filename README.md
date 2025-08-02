@@ -1,4 +1,4 @@
-# Task 3: Customer Churn Prediction
+# Customer Churn Prediction
 
 ## 🎯 Objective
 

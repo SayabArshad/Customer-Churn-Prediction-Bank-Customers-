@@ -102,4 +102,4 @@ The aim of this task is to predict whether a bank customer is likely to **churn*
 1. Ensure the dataset `Churn_Modelling.csv` is placed in the correct path.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/SayabArshad/Task-3-Customer-Churn-Prediction-Bank-Customers.git
+   git clone https://github.com/SayabArshad/Customer-Churn-Prediction-Bank-Customers.git
